@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd9e7159-ef86-4956-808f-161c8904cef0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_air_cargo_problems.py" afterPath="$PROJECT_DIR$/my_air_cargo_problems.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_planning_graph.py" afterPath="$PROJECT_DIR$/my_planning_graph.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="my_air_cargo_problems.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my_air_cargo_problems.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aimacode/logic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_planning_graph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_planning_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5160">
+              <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/1360051245/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10980">
+              <caret line="732" column="8" lean-forward="false" selection-start-line="732" selection-start-column="8" selection-end-line="732" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="planning.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aimacode/planning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_my_planning_graph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_my_planning_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example_have_cake.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_have_cake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2010">
+              <caret line="134" column="43" lean-forward="false" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lp_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lp_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_my_air_cargo_problems.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_my_air_cargo_problems.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>initia</find>
+      <find>AirCargoProblem correctly constructs all possible actions</find>
+      <find>Serialization of mutexes is correct</find>
+      <find>effect_rem</find>
+      <find>level</find>
+      <find>set</find>
+      <find>Action levels have the correct number of actions</find>
+      <find>todo</find>
+      <find>.chil</find>
+      <find>Mutex parent actions should result in inconsistent-support mutex</find>
+      <find>TODO</find>
+      <find>mutex</find>
+      <find>Canceling effects not marked as mutex</find>
+      <find>levelsum heuristic behaves correctly</find>
+      <find>symbo</find>
+      <find>s_levels[level]</find>
+      <find>AirCargoProblem implements the ignore preconditions heuristic</find>
+      <find>goal</find>
+      <find>tod</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my_planning_graph.py" />
+        <option value="$PROJECT_DIR$/my_air_cargo_problems.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="43" />
+    <option name="width" value="1440" />
+    <option name="height" value="803" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AIND-Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIND-Planning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AIND-Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIND-Planning" type="462c0819:PsiDirectoryNode" />
+              <item name="aimacode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AIND-Planning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIND-Planning" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda/bin/python3.6" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum">
+    <configuration name="Unittests for test_my_air_cargo_problems.TestAirCargoMethods.test_AC_actions" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AIND-Planning" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_air_cargo_problems.TestAirCargoMethods.test_AC_actions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AIND-Planning" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphHeuristics&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AIND-Planning" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AIND-Planning" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphLevels&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AIND-Planning" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_air_cargo_problems.TestAirCargoMethods.test_AC_actions" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_my_air_cargo_problems.TestAirCargoMethods.test_AC_actions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd9e7159-ef86-4956-808f-161c8904cef0" name="Default" comment="" />
+      <created>1511368973172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511368973172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics - 2017.11.28 at 16h 00m 40s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics_test_levelsum - 2017.11.28 at 15h 11m 31s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics_test_levelsum - 2017.11.28 at 15h 15m 52s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics_test_levelsum - 2017.11.28 at 15h 17m 08s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphHeuristics_test_levelsum - 2017.11.28 at 16h 04m 12s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphHeuristics.test_levelsum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels - 2017.11.28 at 11h 15m 28s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels - 2017.11.28 at 11h 27m 19s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels - 2017.11.28 at 11h 27m 40s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels_test_add_action_level - 2017.11.28 at 11h 00m 19s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_my_planning_graph_TestPlanningGraphLevels_test_add_action_level - 2017.11.28 at 11h 14m 12s.xml">
+      <configuration name="Unittests for test_my_planning_graph.TestPlanningGraphLevels.test_add_action_level" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="43" width="1440" height="803" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24606581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_air_cargo_problems.py</url>
+          <line>71</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_planning_graph.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_planning_graph.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_planning_graph.py</url>
+          <line>566</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_planning_graph.py</url>
+          <line>567</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_planning_graph.py</url>
+          <line>571</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_planning_graph.py</url>
+          <line>572</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="level" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5160">
+          <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/1360051245/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10980">
+          <caret line="732" column="8" lean-forward="false" selection-start-line="732" selection-start-column="8" selection-end-line="732" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/planning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_have_cake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="134" column="43" lean-forward="false" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lp_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3765">
+          <caret line="254" column="8" lean-forward="false" selection-start-line="254" selection-start-column="8" selection-end-line="254" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-167552.json" />
+    <entry file="file://$PROJECT_DIR$/tests/test_my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9525">
+          <caret line="648" column="0" lean-forward="false" selection-start-line="648" selection-start-column="0" selection-end-line="648" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_have_cake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="101" column="4" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="180" column="4" lean-forward="false" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lp_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3765">
+          <caret line="262" column="27" lean-forward="false" selection-start-line="262" selection-start-column="27" selection-end-line="262" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4650">
+          <caret line="313" column="19" lean-forward="false" selection-start-line="313" selection-start-column="19" selection-end-line="313" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_have_cake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="101" column="4" lean-forward="false" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="180" column="4" lean-forward="false" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lp_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/planning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-163926.json" />
+    <entry file="file://$PROJECT_DIR$/run_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-167552.json" />
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lp_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-168241.json" />
+    <entry file="file://$PROJECT_DIR$/aimacode/planning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-168280.json" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/1360051245/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10980">
+          <caret line="732" column="8" lean-forward="false" selection-start-line="732" selection-start-column="8" selection-end-line="732" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="648" column="0" lean-forward="false" selection-start-line="648" selection-start-column="0" selection-end-line="648" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-168376.json" />
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-168385.json" />
+    <entry file="file://$PROJECT_DIR$/tests/test_my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargo_planning-result-168417.json" />
+    <entry file="file://$PROJECT_DIR$/example_have_cake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="134" column="43" lean-forward="false" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aimacode/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_planning_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5160">
+          <caret line="344" column="47" lean-forward="false" selection-start-line="344" selection-start-column="47" selection-end-line="344" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_air_cargo_problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="77" column="26" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
